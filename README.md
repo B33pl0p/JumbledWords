@@ -14,8 +14,8 @@
     1. Tkinter
     2. random
     
-##The names of the players and scores are saved in the names.txt file so it is necessary
-##And the Png file is for the icon ... XD    
+## The names of the players and scores are saved in the names.txt file so it is necessary
+## And the Png file is for the icon ... XD    
     
     
       
