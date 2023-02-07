@@ -9,13 +9,8 @@
       ###Windows
      1.Clone the repo or download and run the .exe file, If you get a window saying Microsoft Defender SmartScreen prevented .. bla bla ..
        then click on more info and then click on run anyway. 
-      
-## Libraries used : 
-    1. Tkinter
-    2. random
-    
-## The names of the players and scores are saved in the names.txt file so it is necessary
-## And the Png file is for the icon ... XD    
+          
+## the names.txt and the scrabble.png must be in the same directory with the executable for the game to run.  
     
     
       
